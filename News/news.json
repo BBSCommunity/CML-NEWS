@@ -20,5 +20,27 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/Capturado2.png"
     ]
+  },
+  {
+    "id": "Pruebas",
+    "date": "2026-03-12",
+    "title": "Pruebas",
+    "summary": "",
+    "body": "Test message to confirm that unread messages are displayed correctly.",
+    "tags": ["Pruebas"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/Prueba.png"
+    ]
+  },
+  {
+    "id": "Aura",
+    "date": "2026-03-12",
+    "title": "Aura",
+    "summary": "",
+    "body": "Test message to confirm that unread messages are displayed correctly.",
+    "tags": ["Aura"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/Aura.png"
+    ]
   }
 ]
