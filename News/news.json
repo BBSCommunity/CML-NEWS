@@ -1,13 +1,14 @@
 [
   {
-    "id": "Esto Es Una Prueba",
+    "id": "1.10.0-release",
     "date": "2026-03-11",
-    "title": "Pruebas XDDDDDD",
-    "summary": "",
-    "body": "Hola, probando, pruebas, si se ve esto es porque funciona",
-    "tags": ["release"],
+    "title": "BBS CML 1.10.0",
+    "summary": "Nueva iluminación de estructuras e IK base.",
+    "body": "Descripción larga de los cambios...",
+    "tags": ["release", "ik", "structures"],
     "images": [
-      ""
+      "https://tuservidor.com/bbs-news/1.10.0-casa.png",
+      "https://tuservidor.com/bbs-news/1.10.0-ik.png"
     ]
   }
 ]
