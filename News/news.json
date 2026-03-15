@@ -152,5 +152,16 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/Sekza_Gorilla.png"
     ]
+  },
+  {
+    "id": "Rocket",
+    "date": "2026-03-26",
+    "title": "Boda De Roxy",
+    "summary": "",
+    "body": "Test message to confirm that unread messages are displayed correctly.",
+    "tags": ["MAL"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/rocket.png"
+    ]
   }
 ]
