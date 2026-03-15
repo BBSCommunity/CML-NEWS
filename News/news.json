@@ -75,5 +75,16 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/shh.png"
     ]
+  },
+  {
+    "id": "mal",
+    "date": "2026-03-26",
+    "title": "mal",
+    "summary": "",
+    "body": "Test message to confirm that unread messages are displayed correctly.",
+    "tags": ["MAL"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/mal.png"
+    ]
   }
 ]
