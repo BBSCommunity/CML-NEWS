@@ -1,0 +1,9 @@
+{
+  "id": "panel_news",
+  "enabled": true,
+  "title": "Thanks for updating to 1.10!!",
+  "body": "Thank you so much for the update! Remember to check the news feed regularly so you don't miss any upcoming news!",
+  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/refs/heads/main/News/News.png",
+  "actionLabel": "Changelog",
+  "actionUrl": "https://github.com/ElGatoPro300/BBS-CML-EDITION/wiki/Change-log"
+}
