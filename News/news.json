@@ -86,5 +86,27 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/mal.png"
     ]
+  },
+  {
+    "id": "sebowold",
+    "date": "2026-03-27",
+    "title": "SeboWolf",
+    "summary": "",
+    "body": "Test message to confirm that unread messages are displayed correctly.",
+    "tags": ["MAL"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/SeboWolf.png"
+    ]
+  },
+  {
+    "id": "Alfozo",
+    "date": "2026-03-26",
+    "title": "Alfonzo",
+    "summary": "",
+    "body": "Test message to confirm that unread messages are displayed correctly.",
+    "tags": ["MAL"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/Alfonzo_1.png"
+    ]
   }
 ]
