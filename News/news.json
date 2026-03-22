@@ -9,5 +9,16 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/1.10-UPDATE.png"
     ]
+  },
+  {
+    "id": "News",
+    "date": "2026-03-25",
+    "title": "News",
+    "summary": "",
+    "body": "Hi!! Remember to always keep an eye on the news panel so you don't miss any updates!!",
+    "tags": ["Reminder"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/News/images/News.png"
+    ]
   }
 ]
