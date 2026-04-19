@@ -1,11 +1,11 @@
 {
-  "id": "release-1.10.1",
+  "id": "release-1.10.2",
   "enabled": true,
-  "title": "La Version 1.10.1 ya esta disponible!!",
-  "body": "La versión 1.10.1 incluye correcciones de bugs reportados en el servidor de Discord. ¡Ya puedes actualizar BBS CML EDITION en tu plataforma de modding favorita!",
-  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/1.10.1-UPDATE.png",
+  "title": "La Version 1.10.2 ya esta disponible!!",
+  "body": "La versión 1.10.2 incluye correcciones de bugs al igual de algunos cambios de calidad de vida. ¡Ya puedes actualizar BBS CML EDITION en tu plataforma de modding favorita!",
+  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/1.10.2-UPDATE.png",
   "actionLabel": "Changelog",
-  "actionUrl": "https://github.com/ElGatoPro300/BBS-CML-EDITION/wiki/Change-log#1101",
+  "actionUrl": "https://github.com/ElGatoPro300/BBS-CML-EDITION/wiki/Change-log#1102",
   "showOpenNewsButton": false,
   "showActionButton": true
 }

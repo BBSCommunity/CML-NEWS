@@ -31,5 +31,16 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/1.10.1-UPDATE.png"
     ]
+  },
+  {
+    "id": "1.10.2-release",
+    "date": "2026-04-15",
+    "title": "Release 1.10.2",
+    "summary": "",
+    "body": "Version 1.10.2 is now available! This update includes bug fixes and some quality-of-life improvements.",
+    "tags": ["Release"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/1.10.2-UPDATE.png"
+    ]
   }
 ]
