@@ -7,7 +7,7 @@
     "body": "Version 1.10 has finally arrived! I feel this version is the bridge to 2.0. Are you ready when that day comes? Stay tuned in the coming days!",
     "tags": ["Release"],
     "images": [
-      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/1.10-UPDATE.png"
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/1.10-UPDATE.png"
     ]
   },
   {
@@ -18,7 +18,7 @@
     "body": "Ready for the mystery box?",
     "tags": ["soon"],
     "images": [
-      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/MysteryBox.png"
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/MysteryBox.png"
     ]
   },
     {
@@ -29,7 +29,7 @@
     "body": "Version 1.10.1 is now available!!, an update that brings some bug fixes.",
     "tags": ["Release"],
     "images": [
-      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/1.10.1-UPDATE.png"
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/1.10.1-UPDATE.png"
     ]
   },
   {
@@ -40,7 +40,18 @@
     "body": "Version 1.10.2 is now available! This update includes bug fixes and some quality-of-life improvements.",
     "tags": ["Release"],
     "images": [
-      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/1.10.2-UPDATE.png"
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/1.10.2-UPDATE.png"
+    ]
+  },
+  {
+    "id": "2.0-release",
+    "date": "2026-06-30",
+    "title": "Release 2.0",
+    "summary": "",
+    "body": "Version 2.0 is here! It's currently in beta, more or less, as it will be developed as time allows, but you can start migrating to this new BBS vision we have for you!",
+    "tags": ["Release"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.0-UPDATE.png"
     ]
   }
 ]

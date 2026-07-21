@@ -1,11 +1,11 @@
 {
-  "id": "release-1.10.2",
+  "id": "release-2.0",
   "enabled": true,
-  "title": "Version 1.10.2 is now available!!",
-  "body": "Version 1.10.2 brings bug fixes as well as some quality of life improvements. You can now update BBS CML EDITION on your favorite modding platform!",
-  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/1.10.2-UPDATE.png",
+  "title": "Version 2.0 is now available!!",
+  "body": "Version 2.0 is now available through Beta, you can migrate to this version without any problems, are you ready to experience this new vision of BBS CML?",
+  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.0-UPDATE.png",
   "actionLabel": "Changelog",
-  "actionUrl": "https://github.com/ElGatoPro300/BBS-CML-EDITION/wiki/Change-log#1102",
+  "actionUrl": "https://github.com/ElGatoPro300/BBS-CML-EDITION/wiki/Change-log#20-part-1-the-last-dance",
   "showOpenNewsButton": false,
   "showActionButton": true
 }
