@@ -21,7 +21,7 @@
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/MysteryBox.png"
     ]
   },
-    {
+  {
     "id": "1.10.1-release",
     "date": "2026-03-31",
     "title": "Release 1.10.1",
@@ -52,6 +52,17 @@
     "tags": ["Release"],
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.0-UPDATE.png"
+    ]
+  },
+  {
+    "id": "2.1-release",
+    "date": "2026-09-01",
+    "title": "Release 2.1 (The Path Of Color)",
+    "summary": "The Path Of Color update is finally here!",
+    "body": "Version 2.1 is here! Featuring a massive overhaul of geometry, UV and form side panels, dock layouts, real-time keyframing & timeline toolbars, 3D gizmos, in-game selection tools, color grading, paint & glow shaders, and extensive performance & bug fixes.",
+    "tags": ["Release"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.1-UPDATE.png"
     ]
   }
 ]

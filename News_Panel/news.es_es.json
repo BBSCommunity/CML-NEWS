@@ -9,5 +9,60 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/1.10-UPDATE_ES.png"
     ]
+  },
+  {
+    "id": "mysterybox",
+    "date": "2026-03-28",
+    "title": "La Caja Misteriosa",
+    "summary": "",
+    "body": "¿Listo para la caja misteriosa?",
+    "tags": ["pronto"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/MysteryBox.png"
+    ]
+  },
+  {
+    "id": "1.10.1-release",
+    "date": "2026-03-31",
+    "title": "Lanzamiento 1.10.1",
+    "summary": "",
+    "body": "¡La versión 1.10.1 ya está disponible!, una actualización que incluye varias correcciones de errores.",
+    "tags": ["Lanzamiento"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/1.10.1-UPDATE.png"
+    ]
+  },
+  {
+    "id": "1.10.2-release",
+    "date": "2026-04-15",
+    "title": "Lanzamiento 1.10.2",
+    "summary": "",
+    "body": "¡La versión 1.10.2 ya está disponible! Esta actualización incluye correcciones de errores y mejoras de calidad de vida.",
+    "tags": ["Lanzamiento"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/1.10.2-UPDATE.png"
+    ]
+  },
+  {
+    "id": "2.0-release",
+    "date": "2026-06-30",
+    "title": "Lanzamiento 2.0",
+    "summary": "",
+    "body": "¡La versión 2.0 ya está aquí! Se encuentra actualmente en beta para que comiences a migrar a esta nueva visión de BBS CML que tenemos para ti.",
+    "tags": ["Lanzamiento"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.0-UPDATE.png"
+    ]
+  },
+  {
+    "id": "2.1-release",
+    "date": "2026-09-01",
+    "title": "Lanzamiento 2.1 (The Path Of Color)",
+    "summary": "¡La actualización The Path Of Color ya está disponible!",
+    "body": "¡La versión 2.1 ha llegado! Incluye una renovación completa de paneles de geometría, UV y forms, sistema de docks, toolbars interactivas de timeline, gizmos 3D, herramientas en el juego, shaders de pintura y resplandor, y cientos de optimizaciones y correcciones.",
+    "tags": ["Lanzamiento"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.1-UPDATE.png"
+    ]
   }
 ]

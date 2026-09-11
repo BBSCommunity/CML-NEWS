@@ -1,11 +1,11 @@
 {
-  "id": "release-2.0",
+  "id": "release-2.1",
   "enabled": true,
-  "title": "Version 2.0 is now available!!",
-  "body": "Version 2.0 is now available through Beta, you can migrate to this version without any problems, are you ready to experience this new vision of BBS CML?",
-  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.0-UPDATE.png",
+  "title": "Version 2.1 (The Path Of Color) is now available!!",
+  "body": "Version 2.1 is here with a massive overhaul of UI panels, UV & geometry editor, dock layouts, interactive timeline toolbars, 3D gizmos, paint & glow shaders, and much more!",
+  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.1-UPDATE.png",
   "actionLabel": "Changelog",
-  "actionUrl": "https://github.com/ElGatoPro300/BBS-CML-EDITION/wiki/Change-log#20-part-1-the-last-dance",
+  "actionUrl": "https://github.com/ElGatoPro300/BBS-CML-EDITION/wiki/2.1-(The-Path-Of-Color)",
   "showOpenNewsButton": false,
   "showActionButton": true
 }

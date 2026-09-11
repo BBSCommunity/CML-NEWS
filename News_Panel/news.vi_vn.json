@@ -21,7 +21,7 @@
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/MysteryBox.png"
     ]
   },
-    {
+  {
     "id": "1.10.1-release",
     "date": "2026-03-31",
     "title": "Release 1.10.1",
@@ -32,7 +32,7 @@
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/1.10.1-UPDATE.png"
     ]
   },
-{
+  {
     "id": "TLCC",
     "date": "2026-04-07",
     "title": "Phim siêu peak",
@@ -43,7 +43,7 @@
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/refs/heads/main/images/Vi/TLCC.png"
     ]
   },
-{
+  {
     "id": "TTLH",
     "date": "2026-05-14",
     "title": "Phim roleplay mới!",
@@ -53,6 +53,27 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/refs/heads/main/images/Vi/Karisu.png"
     ]
+  },
+  {
+    "id": "2.0-release",
+    "date": "2026-06-30",
+    "title": "Release 2.0",
+    "summary": "",
+    "body": "Phiên bản 2.0 đã đến! Hiện đang ở bản beta, bạn có thể bắt đầu chuyển sang tầm nhìn BBS CML mới này!",
+    "tags": ["Release"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.0-UPDATE.png"
+    ]
+  },
+  {
+    "id": "2.1-release",
+    "date": "2026-09-01",
+    "title": "Release 2.1 (The Path Of Color)",
+    "summary": "",
+    "body": "Phiên bản 2.1 đã ra mắt! Đại tu toàn bộ trình chỉnh sửa hình học, UV và bảng điều khiển forms, bố cục dock, thanh công cụ timeline thời gian thực, gizmos 3D và các hiệu ứng shader tô màu & phát sáng!",
+    "tags": ["Release"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.1-UPDATE.png"
+    ]
   }
-
 ]
