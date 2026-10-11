@@ -75,5 +75,16 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.1-UPDATE.png"
     ]
+  },
+  {
+    "id": "2.2-release",
+    "date": "2026-10-10",
+    "title": "Release 2.2 (Together)",
+    "summary": "Bản cập nhật cuối cùng của kỷ nguyên 2.x, Together, đã chính thức ra mắt!",
+    "body": "Phiên bản 2.2 (Together) đã xuất hiện như một chương kết tuyệt đẹp cho BBS CML 2.x! Bao gồm trải nghiệm bảng chào mừng không gian hoài niệm được làm mới hoàn toàn, hỗ trợ VideoForm, cải tiến rung máy thủ tục, lưu trữ đa phiên bản, sửa lỗi ánh sáng, shader, forms và vô số tối ưu hóa để chuẩn bị bước sang CML 3.0. Cảm ơn tất cả các bạn vì hành trình tuyệt vời này!",
+    "tags": ["Release"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.2-UPDATE.png"
+    ]
   }
 ]

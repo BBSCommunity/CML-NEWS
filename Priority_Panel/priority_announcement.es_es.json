@@ -1,11 +1,11 @@
 {
-  "id": "release-2.1",
+  "id": "release-2.2",
   "enabled": true,
-  "title": "¡¡La Versión 2.1 (The Path Of Color) ya está disponible!!",
-  "body": "¡La versión 2.1 ha llegado con una renovación masiva de paneles, editor UV y geometría, sistema de docks, toolbars interactivas de timeline, gizmos 3D, shaders de pintura y resplandor, y mucho más!",
-  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.1-UPDATE.png",
-  "actionLabel": "Changelog",
-  "actionUrl": "https://github.com/ElGatoPro300/BBS-CML-EDITION/wiki/2.1-(The-Path-Of-Color)",
+  "title": "¡¡La Versión 2.2 (Together) ya está disponible!!",
+  "body": "¡La versión 2.2 (Together) ha llegado como el gran cierre de la era BBS CML 2.x! Incluye una experiencia de bienvenida nostálgica, soporte para VideoForm, almacenamiento multi-instancia y grandes optimizaciones antes de CML 3.0.",
+  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.2-UPDATE.png",
+  "actionLabel": "¡Únete al Servidor de Discord!",
+  "actionUrl": "https://discord.gg/MAHVQBSce6",
   "showOpenNewsButton": false,
   "showActionButton": true
 }

@@ -64,5 +64,16 @@
     "images": [
       "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.1-UPDATE.png"
     ]
+  },
+  {
+    "id": "2.2-release",
+    "date": "2026-10-10",
+    "title": "Lanzamiento 2.2 (Together)",
+    "summary": "¡La última actualización de la era 2.x, Together, ya está aquí!",
+    "body": "¡La versión 2.2 (Together) ha llegado como el gran capítulo final de BBS CML 2.x! Esta versión incluye una experiencia de bienvenida completamente renovada con temática espacial y nostálgica, soporte para VideoForm, mejoras en el sistema de sacudidas procedimentales de cámara, almacenamiento multi-instancia, correcciones en iluminación, shaders, formas y un sinfín de optimizaciones mientras nos preparamos para la llegada de CML 3.0. ¡Gracias a todos por este increíble viaje!",
+    "tags": ["Lanzamiento"],
+    "images": [
+      "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.2-UPDATE.png"
+    ]
   }
 ]
