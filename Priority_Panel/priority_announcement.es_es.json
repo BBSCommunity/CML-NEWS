@@ -1,11 +1,11 @@
 {
-  "id": "release-2.2",
+  "id": "javi-cubito-elitecraft-4",
   "enabled": true,
-  "title": "¡¡La Versión 2.2 (Together) ya está disponible!!",
-  "body": "¡La versión 2.2 (Together) ha llegado como el gran cierre de la era BBS CML 2.x! Incluye una experiencia de bienvenida nostálgica, soporte para VideoForm, almacenamiento multi-instancia y grandes optimizaciones antes de CML 3.0.",
-  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.2-UPDATE.png",
-  "actionLabel": "¡Únete al Servidor de Discord!",
-  "actionUrl": "https://discord.gg/MAHVQBSce6",
-  "showOpenNewsButton": false,
+  "title": "¡¡Javi Cubito en Elitecraft 4!!",
+  "body": "¡Es un gran honor anunciar que el animador Javi Cubito participará en la cuarta edición de Elitecraft representando con orgullo a la comunidad de animadores de BBS Latinoamérica!\n\n¿Te gustaría acompañarnos en esta aventura? ¡Te esperamos este 12 de noviembre en su canal de Twitch!",
+  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/JaviCubito_Elitecraft4.png",
+  "actionLabel": "¡Ver en Twitch!",
+  "actionUrl": "https://www.twitch.tv/javicubito_",
+  "showOpenNewsButton": true,
   "showActionButton": true
 }
