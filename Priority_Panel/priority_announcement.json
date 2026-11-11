@@ -1,11 +1,13 @@
 {
-  "id": "release-2.2",
+  "id": "javi-cubito-elitecraft-4",
+  "targetMajor": 3,
+  "date": "2026-11-11",
   "enabled": true,
-  "title": "Version 2.2 (Together) is now available!!",
-  "body": "Version 2.2 (Together) is here as the grand finale of BBS CML 2.x! Featuring a nostalgic space welcome experience, VideoForm support, multi-instance storage, and massive optimizations before CML 3.0!",
-  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/2.2-UPDATE.png",
-  "actionLabel": "Join the Discord Server!",
-  "actionUrl": "https://discord.gg/MAHVQBSce6",
-  "showOpenNewsButton": false,
+  "title": "Javi Cubito in Elitecraft 4!!",
+  "body": "It is a great honor to announce that animator Javi Cubito will be participating in the fourth edition of Elitecraft representing the BBS Latin America animation community! Would you like to join us on this adventure? We await you this November 12th on his Twitch channel:\nhttps://www.twitch.tv/javicubito_\n\nSee you soon!",
+  "image": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/news/JaviCubito_Elitecraft4.png",
+  "actionLabel": "Watch on Twitch!",
+  "actionUrl": "https://www.twitch.tv/javicubito_",
+  "showOpenNewsButton": true,
   "showActionButton": true
 }
