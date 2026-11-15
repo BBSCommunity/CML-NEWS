@@ -1,0 +1,214 @@
+{
+  "links": [
+    {
+      "id": "community",
+      "label": "Community",
+      "url": "https://discord.gg/MAHVQBSce6"
+    },
+    {
+      "id": "tutorials",
+      "label": "Tutorials",
+      "url": "https://www.youtube.com/@BBSCML"
+    },
+    {
+      "id": "wiki",
+      "label": "Wiki",
+      "url": "https://github.com/ElGatoPro300/BBS-CML-3.0/wiki"
+    },
+    {
+      "id": "donate",
+      "label": "Donate",
+      "url": "https://www.patreon.com/ElGatoPro300"
+    }
+  ],
+  "sections": [
+    {
+      "id": "developers",
+      "title": "BBS CML Developers",
+      "color": "#9932CC",
+      "entries": [
+        {
+          "name": "ElGatoPro300",
+          "link": "https://www.youtube.com/@ElGatoPro300",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/ElGatoPro300.png"
+        },
+        {
+          "name": "El_Redstoniano",
+          "link": "https://www.youtube.com/@ElRedstoniano",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/El_Redstoniano.png"
+        },
+        {
+          "name": "Diobede",
+          "link": "https://www.youtube.com/watch?v=iik25wqIuFo",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Diobede.png"
+        },
+        {
+          "name": "Fanyel",
+          "link": "http://youtube.com/@imLOSTStudios",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Fanyel.png"
+        }
+      ]
+    },
+    {
+      "id": "contributors",
+      "title": "BBS CML Contributors",
+      "color": "#00C49A",
+      "entries": [
+        {
+          "name": "SIRSYP",
+          "link": "https://www.youtube.com/@SIRSYP1",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/SIRSYP.png"
+        },
+        {
+          "name": "bay4lly",
+          "link": "https://www.youtube.com/@bay4lly",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/bay4lly.png"
+        },
+        {
+          "name": "Nioum",
+          "link": "https://www.youtube.com/@NioumMC",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Nioum.png"
+        }
+      ]
+    },
+    {
+      "id": "founders",
+      "title": "BBS CML Founders",
+      "color": "#FF8C00",
+      "entries": [
+        {
+          "name": "seb024xd",
+          "link": "https://www.youtube.com/@seb024yt",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/seb024xd.png"
+        },
+        {
+          "name": "Mattux",
+          "link": "https://www.youtube.com/@Mattux",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Mattux.png"
+        },
+        {
+          "name": "SEKZA_MC",
+          "link": "https://www.youtube.com/@secxavier49_official",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/SEKZA_MC.png"
+        },
+        {
+          "name": "MrJack",
+          "link": "https://x.com/MrJackDnZ",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/MrJack.png"
+        },
+        {
+          "name": "AymaWolf Omega",
+          "link": "https://www.youtube.com/@AymaWolfOmega",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/AymaWolfOmega.png"
+        },
+        {
+          "name": "TobbyMC",
+          "link": "https://www.youtube.com/@TobbyMC",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/TobbyMC.png"
+        },
+        {
+          "name": "JaviCubito",
+          "link": "https://www.youtube.com/@JaviCubito",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/JaviCubito.png"
+        },
+        {
+          "name": "Jesuluto",
+          "link": "https://www.tiktok.com/@jesulutoxd",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Jesuluto.png"
+        },
+        {
+          "name": "Kazu_MC",
+          "link": "https://www.tiktok.com/@k4zuyuky",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Kazu_MC.png"
+        },
+        {
+          "name": "TheRocket",
+          "link": "https://www.youtube.com/@TheRocketttt",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/TheRocket.png"
+        },
+        {
+          "name": "Yeyo Sin Contexto",
+          "link": "https://www.youtube.com/@YeyoSinContexto",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Yeyo_Sin_Contexto.png"
+        },
+        {
+          "name": "Redbirdpro",
+          "link": "https://www.youtube.com/@RedbirdproMC",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Redbirdpro.png"
+        },
+        {
+          "name": "MiniSunn_",
+          "link": "https://www.youtube.com/channel/UCoHzxz8f08OSs6LCD2QBr7Q",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/MiniSunn_.png"
+        },
+        {
+          "name": "ItzUkyo2013",
+          "link": "https://www.x.com/@UkyoKounji_2013",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/ItzUkyo2013.png"
+        },
+        {
+          "name": "SoyFrann",
+          "link": "https://www.youtube.com/channel/UCfkzCKdp23V6BD2iV7IEt9A",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/SoyFrann.png"
+        },
+        {
+          "name": "itzPizzaXD",
+          "link": "https://www.youtube.com/@ItzPizzaXD",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/itzPizzaXD.png"
+        },
+        {
+          "name": "Pirata_12",
+          "link": "https://www.youtube.com/@Pirata_animations",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Pirata_12.png"
+        },
+        {
+          "name": "Soru San",
+          "link": "https://www.youtube.com/@Soru_San",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/SoruSan.png"
+        },
+        {
+          "name": "Gooxy Series",
+          "link": "https://www.youtube.com/channel/UCVxJRlpLWvThRAqyj1zShyw",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/GooxySeries.png"
+        },
+        {
+          "name": "ElRandi",
+          "link": "https://www.youtube.com/@ElRandiswe",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/ElRandi.png"
+        }
+      ]
+    },
+    {
+      "id": "thanks",
+      "title": "Special Thanks",
+      "color": "#1E90FF",
+      "entries": [
+        {
+          "name": "McHorse",
+          "link": "https://www.youtube.com/channel/UCSLuDXxxql4EVK_Ktd6PNbw",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/mchorse.png"
+        },
+        {
+          "name": "Afegor (Alyokhin Dmitrii)",
+          "link": "https://www.youtube.com/@Afegor",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/afegor.png"
+        },
+        {
+          "name": "Plixitizthz",
+          "link": "https://x.com/PlixtIz",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Plixitizthz.png"
+        },
+        {
+          "name": "AND_010",
+          "link": "https://www.youtube.com/@AND010",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/AND_010.png"
+        },
+        {
+          "name": "SR400X",
+          "link": "https://x.com/SR400X_",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/SR400X.png"
+        }
+      ]
+    }
+  ]
+}
