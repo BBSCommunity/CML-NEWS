@@ -1,0 +1,12 @@
+{
+    "format": 1,
+    "version": "9.0.2",
+    "platforms": {
+        "windows-x64": {
+            "url": "https://github.com/BBSCommunity/CML-NEWS/releases/download/ffmpeg-9.0.2-windows/ffmpeg-windows-x64.zip",
+            "sha256": "3dbcebe8438940fffa1b246baf0a49756f3bfe80f6e97dd44e4f95ea83129b91",
+            "entry": "ffmpeg.exe",
+            "size": 38876033
+        }
+    }
+}
