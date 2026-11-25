@@ -46,6 +46,16 @@
           "name": "Fanyel",
           "link": "http://youtube.com/@imLOSTStudios",
           "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Fanyel.png"
+        },
+        {
+          "name": "seb024xd",
+          "link": "https://www.youtube.com/@seb024yt",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/seb024xd.png"
+        },
+        {
+          "name": "Mattux",
+          "link": "https://www.youtube.com/@Mattux",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Mattux.png"
         }
       ]
     },
@@ -68,6 +78,16 @@
           "name": "Nioum",
           "link": "https://www.youtube.com/@NioumMC",
           "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Nioum.png"
+        },
+        {
+          "name": "Jesuluto",
+          "link": "https://www.tiktok.com/@jesulutoxd",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Jesuluto.png"
+        },
+        {
+          "name": "TobbyMC",
+          "link": "https://www.youtube.com/@TobbyMC",
+          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/TobbyMC.png"
         }
       ]
     },
@@ -76,16 +96,6 @@
       "title": "BBS CML Founders",
       "color": "#FF8C00",
       "entries": [
-        {
-          "name": "seb024xd",
-          "link": "https://www.youtube.com/@seb024yt",
-          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/seb024xd.png"
-        },
-        {
-          "name": "Mattux",
-          "link": "https://www.youtube.com/@Mattux",
-          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Mattux.png"
-        },
         {
           "name": "SEKZA_MC",
           "link": "https://www.youtube.com/@secxavier49_official",
@@ -102,19 +112,9 @@
           "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/AymaWolfOmega.png"
         },
         {
-          "name": "TobbyMC",
-          "link": "https://www.youtube.com/@TobbyMC",
-          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/TobbyMC.png"
-        },
-        {
           "name": "JaviCubito",
           "link": "https://www.youtube.com/@JaviCubito",
           "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/JaviCubito.png"
-        },
-        {
-          "name": "Jesuluto",
-          "link": "https://www.tiktok.com/@jesulutoxd",
-          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/Jesuluto.png"
         },
         {
           "name": "Kazu_MC",
@@ -150,11 +150,6 @@
           "name": "SoyFrann",
           "link": "https://www.youtube.com/channel/UCfkzCKdp23V6BD2iV7IEt9A",
           "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/SoyFrann.png"
-        },
-        {
-          "name": "itzPizzaXD",
-          "link": "https://www.youtube.com/@ItzPizzaXD",
-          "banner": "https://raw.githubusercontent.com/BBSCommunity/CML-NEWS/main/images/about/itzPizzaXD.png"
         },
         {
           "name": "Pirata_12",
